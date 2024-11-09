@@ -1,10 +1,11 @@
 # Two-dimension-Thermal-bowing-of-nonuniform-temperature-steel-beam
 Python program for calculating the thermal bowing of 1D nonuniform temperature gradient steel beam.
-<img src="[https://your-image-url.type](https://github.com/user-attachments/assets/31b3c8f6-31a4-4e26-b390-2a5345b7a7a3)" width="300" height="250">
+![image](https://github.com/user-attachments/assets/0931229f-f874-4dd7-9084-6d0ba50f9d79)
 
 Figure 1.	Comparison of undeformed and deformed sections
 
-<img src="[https://your-image-url.type]([https://github.com/user-attachments/assets/b5be1b27-f7b9-4478-8f92-22e0053dc256](https://github.com/user-attachments/assets/da990cba-4d33-4845-90b8-5c387a645717))" width="300" height="250">
+
+![Comparison W10x22 400C H120 60min](https://github.com/user-attachments/assets/094b0bda-88d6-439a-b06e-0cc929c41432)
 
 Figure 2.	Comparison of thermal bowing
 
