@@ -431,15 +431,10 @@ for tp in temp:
     for j in range(1,2):
         tempdist=tempdist_set[j]
         tempdist=[[1141.39,0],[940.532,0.194735],[753.094,0.353465],[614.9,0.516067],[511.181,0.678668],[429.928,0.837398],[365.723,1]]
-        #tempdist=[[500,0],[200,0.5],[100,1]]
-        tempdist=[[500,0],[100,0.5],[50,1]]
-        #stre_upper=stre_red(tempdist[0][0]*tempdist[1][0])
         Iz=tf*(w**3)/12*2+(d-2*tf)*(tw**3)/12
         Iw=Iz*(d-tf)**2/4   
-        #It=1.578e5
         It=(2*w*tf**3+(d-tf)*tw**3)/3
         print('It='+str(It))
-        #Wy=1e5
         fpl=320
         E=210000
         G=80770
@@ -450,8 +445,6 @@ for tp in temp:
         k=1
         kw=1
         Wpl=w*tf*(d-tf)+0.25*tw*(d-2*tf)**2
-        # zg=
-        gamma_M1=''
         tempdist_uf=[]
         tempdist_lf=[]
         tempdist_web=[]
